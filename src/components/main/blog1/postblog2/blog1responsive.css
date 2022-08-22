@@ -1,0 +1,15 @@
+.blog {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    height: 35rem;
+    margin-bottom: 3rem;
+}
+
+
+.postsWrapper {
+    display: flex;
+    width: 100%;    
+}
+

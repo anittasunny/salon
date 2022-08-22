@@ -1,0 +1,25 @@
+
+@media all and (max-width: 600px) { 
+
+    
+    .wraper ul{
+      display: none;
+      
+    }
+  
+    .wraper {
+      justify-content: space-between;
+      width: 85%;
+    }
+  
+    .wraper h1 {
+      color: white;
+      font-size: 2rem;
+      
+    }
+
+    nav {
+        width: 5rem;
+    }
+
+   }

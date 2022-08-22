@@ -1,0 +1,42 @@
+.about{
+
+    background-color: #F9F5FE ;
+}
+
+
+.aboutWrapper {
+    display: flex;
+    flex-direction: row;
+    /* float: left; */
+    margin-top: 10%;
+    width: 100%;
+}
+
+.leftAbout{
+
+    display: flex;
+   width: 50%;
+}
+.rightAbout{
+
+    display: flex;
+    width: 80%;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.abouthead {
+    /* margin-top: -181px; */
+    margin-bottom: 20%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.vert-head{
+
+    writing-mode: vertical-rl;
+   text-orientation: mixed;
+   font-size: 2;
+   font-weight: bolder;
+}

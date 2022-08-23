@@ -1,0 +1,55 @@
+.leftmore{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    
+
+}
+
+.rightmore {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    padding-left: 8rem;
+    padding-top: 8rem;
+    align-items: baseline;
+}
+
+
+.moreWrapper{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.para1{
+
+    padding-top: 5rem;
+
+}
+.para2{
+
+    padding-top: 3rem;
+
+}
+.btn-outline-primary{
+    color: white;  
+    border-color: white;
+    border-radius: 3em;
+
+    font-size: 2rem;
+
+}
+
+.bottom-but1 {
+    padding-top: 4rem;
+    padding-right: 34rem;
+}
+.bottom-cont{
+
+    display: flex;
+    
+}

@@ -8,6 +8,8 @@ import { Service1 } from "./components/main/service1/Service1";
 import { Blog } from "./components/main/blog/Blog";
 import { Section1 } from "./components/main/section1/section1";
 import { About } from "./components/main/about/About";
+import { BeautyServices } from "./components/main/beautyService/beautyService";
+import { ReadMore } from "./components/main/readMore/readmore";
 
 function Container() {
   
@@ -19,7 +21,9 @@ function Container() {
       <About/>
       <Service1/>
       <BestServices />
+      <BeautyServices/>
       <Blog />
+      <ReadMore/>
     
     </>
   );

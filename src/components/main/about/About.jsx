@@ -5,7 +5,10 @@ import AboutPic from "../../../assets/image5.svg";
 export const About = () => {
     return (
         <section className="about">
-               <h1>About</h1>
+            <div className="abouthead">
+            <h1>About</h1>
+            </div>
+               
                         <div className="aboutWrapper">
 
                 <div className="leftAbout">

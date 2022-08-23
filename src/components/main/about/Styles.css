@@ -26,11 +26,10 @@
 }
 
 .abouthead {
-    /* margin-top: -181px; */
-    margin-bottom: 20%;
-    justify-content: center;
     display: flex;
+    flex-flow: column wrap;
     align-items: center;
+    justify-content: center;
 }
 
 .vert-head{

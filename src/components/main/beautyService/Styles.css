@@ -1,0 +1,31 @@
+.beautyhead{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+}
+.beautywrapper{
+   display: flex;
+   width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.beautyleftServices{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    padding: 2rem;
+}
+.beautyrigthServices{
+
+    display: flex;
+    width:50%;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.leftpara1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

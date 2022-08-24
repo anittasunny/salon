@@ -11,7 +11,7 @@ section {
     align-items: center;
     justify-content: space-between;
     flex-flow: row wrap;
-    margin-left: 19%;
+    margin-left: 8%;
     margin-top: 13%;
 }
 .leftContent {
@@ -76,8 +76,7 @@ section {
 }
 
 .btn-outline-primary{
-    color: white;
-   
+    /* color: white; */
     border-color: #8576ED;
     border-radius: 2em;
     margin-right: 10px;
@@ -85,3 +84,16 @@ section {
 
 }
 
+.paras{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    /* flex-wrap: wrap;
+     */
+     width: 100%;
+}
+.para1{
+    color: white;
+    font-size: .3rem;
+    padding-left: 2rem;
+}

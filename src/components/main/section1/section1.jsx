@@ -7,7 +7,7 @@ import spaImg from '../../../assets/blog4pic.svg'
 export const Section1 = () => {
     return (
         <section className="service-section">
-           
+            
             <div className="service-sectionWrapper">
             <div className='heading'>
                 <h1 >our services</h1>

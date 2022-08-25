@@ -26,7 +26,10 @@ export const About = () => {
                         </div>
                      <div className="horz2">
                      What can we say about us, well we basically are a beauty care with over <b>10 years of experience </b>in beauty and spa treatment, and we are the ones who create da funky stuff.
-                      <b> Lorem Ipsum </b>has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    
+                     </div>
+                     <div className="horz3">
+                     <b> Lorem Ipsum </b>has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                      </div>
                         
                     </div>

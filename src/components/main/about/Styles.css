@@ -43,7 +43,7 @@
 
     writing-mode: vertical-rl;
     text-orientation: mixed;
-    font-size: 2;
+    font-size: 1.5rem;
     font-weight: bolder;
 }
 .horz{
@@ -55,10 +55,17 @@
 .horz1 {
     font-size: 1.7rem;
     width: 50%;
+    padding-bottom: 7rem;
 }
 
 .horz2{
 
-font-size: 2rem;
-
+font-size: 1.7rem;
+width: 60%;
+padding-bottom: 2rem;
 }
+.horz3{
+
+    font-size: 1.7rem;
+    width: 58%;
+    }

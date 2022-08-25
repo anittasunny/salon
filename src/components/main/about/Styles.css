@@ -30,8 +30,10 @@
 .abouthead {
     display: flex;
     flex-flow: column wrap;
-    align-items: center;
-    justify-content: center;
+    padding-top: 8rem;
+    padding-right: 53rem;
+    font-size: 5rem;
+    font-weight: 800;
 }
 
 .vert-head{

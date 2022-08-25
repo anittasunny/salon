@@ -1,4 +1,4 @@
-import './Styles.css'
+import './Styles2.css'
 import './ResponsiveSection1.css'
 import hairImg from '../../../assets/blog2pic.svg'
 import makeupImg from '../../../assets/blog3pic.svg'

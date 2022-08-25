@@ -12,7 +12,8 @@ section {
     justify-content: space-between;
     flex-flow: row wrap;
     margin-left: 8%;
-    margin-top: 13%;
+    padding-top: 5rem;
+    /* margin-top: 13%; */
 }
 .leftContent {
     width: 53%;
@@ -91,6 +92,8 @@ section {
     /* flex-wrap: wrap;
      */
      width: 100%;
+     padding-right: 16rem;
+
 }
 .para1{
     color: white;

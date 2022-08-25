@@ -58,10 +58,10 @@
     padding-bottom: 12rem;
     justify-content: center;
 }
-.service-sectionWrapper{
-
+.service-sectionWrapper {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 17rem;
     flex-direction: column;
 }

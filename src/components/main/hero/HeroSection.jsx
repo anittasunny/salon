@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./styles1.css";
 import "./Responsivegen.css";
 
 import HeroImg from "../../../assets/gentleman.svg";

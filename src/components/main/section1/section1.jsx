@@ -10,10 +10,10 @@ export const Section1 = () => {
             
             <div className="service-sectionWrapper">
             <div className='heading'>
-                <h1 >our services</h1>
+                our services
             </div>
 
-                <div className='imageswrap'>
+                <div className='imageswrap1'>
                     <div className='blog2'>
 
                         <div className='blog2img'>

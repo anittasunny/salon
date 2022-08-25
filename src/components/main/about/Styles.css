@@ -1,6 +1,6 @@
-.about{
+.about {
 
-    background-color: #F9F5FE ;
+    background-color: #F9F5FE;
     display: flex;
     flex-direction: column;
 }
@@ -14,15 +14,17 @@
     width: 100%;
 }
 
-.leftAbout{
+.leftAbout {
 
     display: flex;
-   width: 50%;
+    width: 50%;
+    padding-bottom: 12rem;
 }
-.rightAbout{
+
+.rightAbout {
 
     display: flex;
-    width: 80%;
+    width: 100%;
     flex-wrap: wrap;
     flex-direction: row;
 }
@@ -36,10 +38,10 @@
     font-weight: 800;
 }
 
-.vert-head{
+.vert-head {
 
     writing-mode: vertical-rl;
-   text-orientation: mixed;
-   font-size: 2;
-   font-weight: bolder;
+    text-orientation: mixed;
+    font-size: 2;
+    font-weight: bolder;
 }

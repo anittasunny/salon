@@ -22,11 +22,12 @@
 }
 
 .rightAbout {
-
     display: flex;
-    width: 100%;
+    width: 121%;
     flex-wrap: wrap;
     flex-direction: row;
+    padding-top: 3rem;
+    padding-left: 3rem;
 }
 
 .abouthead {
@@ -44,4 +45,20 @@
     text-orientation: mixed;
     font-size: 2;
     font-weight: bolder;
+}
+.horz{
+ display: flex;
+ flex-direction: column;
+
+}
+
+.horz1{
+
+
+}
+
+.horz2{
+
+
+
 }

@@ -32,7 +32,7 @@ export const Section1 = () => {
 
                     </div>
                     <div className='bottom-cont'>
-                    <div>
+                    <div className='bot-cont'>
                         <h3 style={{width:"70%"}}>Lorem Ipsum adalah cont tukang kumpulan teks dan mengacaknya untuk menjadi</h3>
                     </div>
                     <div className='bottom-but'>

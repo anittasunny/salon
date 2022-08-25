@@ -33,7 +33,10 @@
     border-radius: 2em;
     font-size: 1rem;
 }
+.bot-cont{
 
+    padding-bottom: 6rem;
+}
 .bottom-but{
 
     display: flex;

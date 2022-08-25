@@ -1,0 +1,28 @@
+
+.footer {
+    padding: 2rem 0rem;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer1 {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.line {
+    margin: 2rem;
+    border: none;
+    border-bottom: 2px solid gray;
+}
+
+.footer2 {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    
+}

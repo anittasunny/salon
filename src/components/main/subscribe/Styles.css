@@ -1,0 +1,51 @@
+
+.subscribe {
+    padding: 5rem 0rem;
+    display: flex;
+    justify-content: center;
+}
+
+.subscribeWrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.subscribeWrapper > button {
+    padding: 1rem 3rem;
+    border: none;
+    outline: none;
+    
+    border-radius: 5rem;
+    background-color: black;
+    color : white;
+
+}
+
+.subscribeInput {
+    padding-bottom: .5rem;
+    border-bottom: 1px solid black;
+
+}
+
+.subscribeInput > input {
+    border: none;
+    outline: none;
+    padding: .5rem;
+    width: 20rem;
+}
+
+.subscribeInput > img {
+    width: 1rem;
+}
+
+.social-medias {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.social-medias > img {
+    width: 1.4rem;
+}

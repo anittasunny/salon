@@ -4,6 +4,7 @@ import "./Responsivegen.css";
 import HeroImg from "../../../assets/gentleman.svg";
 
 export const Hero = () => {
+  console.log(HeroImg)
   return (
     <section className="genSec">
       <div className="contentWrapper">

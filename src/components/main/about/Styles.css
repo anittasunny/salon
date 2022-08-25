@@ -1,6 +1,8 @@
 .about{
 
     background-color: #F9F5FE ;
+    display: flex;
+    flex-direction: column;
 }
 
 
